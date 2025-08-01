@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "bcryptjs": "^3.0.2",
@@ -7,11 +8,10 @@
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.16.5",
-    "required": "^1.0.0",
-    "type": "module"
+    "required": "^1.0.0"
   },
   "scripts": {
-  "start": "node server.js",
-  "import": "node importData.js"
-}
+    "start": "node server.js",
+    "import": "node importData.js"
+  }
 }
