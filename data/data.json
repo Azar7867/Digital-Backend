@@ -1,0 +1,96 @@
+{
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Campaign A",
+      "description": "Data-driven strategy with high-performing results.",
+      "image": "./Data-driven.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Campaign B",
+      "description": "Creative content and stunning design that delivers.",
+      "image": "./Creative content.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Campaign C",
+      "description": "Integrated solutions to scale your brand online.",
+      "image": "./Integrated solutions.jpg"
+    }
+  ],
+  "testimonial": {
+    "id": 1,
+    "quote": "Working with this agency was a game-changer for our brand. Their creativity and insights are top-tier.",
+    "author": "Priya Mehra, CMO @ GrowthZen"
+  },
+   "services": [
+    {
+      "id": 1,
+      "title": "SEO Optimization",
+      "description": "Enhance your visibility on search engines with proven SEO strategies.",
+      "icon": "fas fa-chart-line"
+    },
+    {
+      "id": 2,
+      "title": "Social Media Marketing",
+      "description": "Grow your brand’s social presence with engaging campaigns.",
+      "icon": "fas fa-bullhorn"
+    },
+    {
+      "id": 3,
+      "title": "Email Campaigns",
+      "description": "Deliver impactful email marketing campaigns that convert.",
+      "icon": "fas fa-envelope-open-text"
+    },
+    {
+      "id": 4,
+      "title": "Content Creation",
+      "description": "Create stunning content that resonates with your audience.",
+      "icon": "fas fa-pen-nib"
+    },
+    {
+      "id": 5,
+      "title": "Google Ads & PPC",
+      "description": "Drive targeted traffic and ROI with smart advertising.",
+      "icon": "fas fa-ad"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "role": "CEO, StartupX",
+      "quote": "This agency transformed our online presence. Highly recommended!",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Lee",
+      "role": "Marketing Head, CorpWorld",
+      "quote": "Incredible results and a fantastic team to work with!",
+      "image": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Raj Kumar",
+      "role": "Founder, TechNova",
+      "quote": "Professional, creative, and always delivers on time.",
+      "image": "https://randomuser.me/api/portraits/men/33.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ayesha Khan",
+      "role": "CMO, Designly",
+      "quote": "Their strategy and execution exceeded our expectations!",
+      "image": "https://randomuser.me/api/portraits/women/45.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tom Nguyen",
+      "role": "Product Manager, AppCore",
+      "quote": "The team brought our vision to life. Excellent service!",
+      "image": "https://randomuser.me/api/portraits/men/28.jpg"
+    }
+  ]
+}
